@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<item>
+		<name>Pulp Fiction</name>
+		<year>1996</year>
+		<director>Quentin Tarantino</director>
+		<description>Vincent and Jules shoot people and eat Big Kahuna Burgers</description>
+	</item>
+	<item>
+		<name>Inglorious Basterds</name>
+		<year>2008</year>
+		<director>Quentin Tarantino</director>
+		<description>Aldo 'the Apache' Raine scalps nazis with his crew of jews</description>
+	</item>
+	<item>
+		<name>Blinkende Lygter</name>
+		<year>2000</year>
+		<director>Anders Thomas Jensen</director>
+		<description>Four gangsters steal a fortune from their boss and hide out in a small farmhouse, where each comes to the realization they would like to stay there and open a small restaurant.</description>
+	</item>
+</root>

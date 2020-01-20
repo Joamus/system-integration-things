@@ -1,0 +1,5 @@
+db.movies.drop();
+
+db.movies.insertOne({name: "Pulp Fiction", year: 1996, director: "Quentin Tarantino", description: "Vincent and Jules shoot people for Marcellus Wallace and eat Kahuna burgers" });
+
+db.movies.insertOne({name: "Inglorious Basterds", year: 2008, director: "Quentin Tarantino", description: "Aldo 'the Apache' Raine scalps Nazis with his crew of jews" });

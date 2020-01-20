@@ -1,0 +1,27 @@
+body {
+	
+}
+
+.navbar {
+	background: rgb(0,123,255);
+	background: linear-gradient(90deg, rgba(0,123,255,1) 0%, rgba(0,127,255,1) 63%, rgba(0,206,255,1) 100%); 
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.easyid-form {
+	width: 200px;
+	height: 215px;
+}
+
+.bank-title {
+	color: black;
+
+}
+
+.wrapper {
+	background-color: white;
+	border-radius: 4px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
